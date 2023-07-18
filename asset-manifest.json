@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ReusableGorgeousUIButton/static/css/main.9f088a99.css",
+    "main.js": "/ReusableGorgeousUIButton/static/js/main.3b3c11d0.js",
+    "index.html": "/ReusableGorgeousUIButton/index.html",
+    "main.9f088a99.css.map": "/ReusableGorgeousUIButton/static/css/main.9f088a99.css.map",
+    "main.3b3c11d0.js.map": "/ReusableGorgeousUIButton/static/js/main.3b3c11d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f088a99.css",
+    "static/js/main.3b3c11d0.js"
+  ]
+}
